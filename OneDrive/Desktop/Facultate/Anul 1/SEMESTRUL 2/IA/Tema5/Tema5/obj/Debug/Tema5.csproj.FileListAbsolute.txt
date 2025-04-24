@@ -1,0 +1,7 @@
+C:\Users\Paula\OneDrive\Desktop\IA\Teme\Tema5\Tema5\bin\Debug\Tema5.exe.config
+C:\Users\Paula\OneDrive\Desktop\IA\Teme\Tema5\Tema5\bin\Debug\Tema5.exe
+C:\Users\Paula\OneDrive\Desktop\IA\Teme\Tema5\Tema5\bin\Debug\Tema5.pdb
+C:\Users\Paula\OneDrive\Desktop\IA\Teme\Tema5\Tema5\obj\Debug\Tema5.csproj.AssemblyReference.cache
+C:\Users\Paula\OneDrive\Desktop\IA\Teme\Tema5\Tema5\obj\Debug\Tema5.csproj.CoreCompileInputs.cache
+C:\Users\Paula\OneDrive\Desktop\IA\Teme\Tema5\Tema5\obj\Debug\Tema5.exe
+C:\Users\Paula\OneDrive\Desktop\IA\Teme\Tema5\Tema5\obj\Debug\Tema5.pdb
