@@ -1,0 +1,10 @@
+﻿  Formula.cpp
+C:\Users\Paula\OneDrive\Desktop\IA\Teme\Tema02\Tema02\Formula.cpp(35,10): error C2511: 'Formula::Formula(std::string,std::string,int)': overloaded member function not found in 'Formula'
+  C:\Users\Paula\OneDrive\Desktop\IA\Teme\Tema02\Tema02\Formula.h(6,7):
+  see declaration of 'Formula'
+  
+C:\Users\Paula\OneDrive\Desktop\IA\Teme\Tema02\Tema02\Formula.cpp(36,1): error C2550: 'Formula::{ctor}': constructor initializer lists are only allowed on constructor definitions
+C:\Users\Paula\OneDrive\Desktop\IA\Teme\Tema02\Tema02\Formula.cpp(37,45): error C2597: illegal reference to non-static member 'Formula::member_1'
+  C:\Users\Paula\OneDrive\Desktop\IA\Teme\Tema02\Tema02\Formula.h(9,9):
+  see declaration of 'Formula::member_1'
+  
